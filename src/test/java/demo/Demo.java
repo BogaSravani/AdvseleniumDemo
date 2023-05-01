@@ -7,6 +7,7 @@ public class Demo {
 	public void script()
 	{
 		System.out.println("running succesfully");
+		System.out.println("hjdkdkd");
 	}
 
 }
